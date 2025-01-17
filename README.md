@@ -4,6 +4,7 @@
 
 <div align="center">
   <h1>📊 GitHub Stats</h1>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamathHirushan&label=Profile%20views&color=0e75b6&style=flat" alt="chamathHirushan" /> </p>
   </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamathHirushan&theme=dark&hide_border=false" height="150" alt="streak stats graph" />
   </br>
