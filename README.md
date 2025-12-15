@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @chamathHirushan, a 3rd-year undergraduate at University of Moratuwa, Computer Science and Eng department
-- 👀 I’m interested in Machine Learning and Web development, and currently working on improving my skills on both areas
+- 👋 Hi, I’m @chamathHirushan, a 4th-year undergraduate at University of Moratuwa, Computer Science and Eng department
+- 👀 I’m interested in both Software Engineering and Machine Learning, and I’m currently working on improving my skills in both areas
 - 📫 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/chamathhirushan/) at anytime
 
 <div align="center">
