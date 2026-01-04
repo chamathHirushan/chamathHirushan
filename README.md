@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @chamathHirushan, a 4th-year undergraduate at University of Moratuwa, Computer Science and Eng department
-- 👀 I’m interested in both Software Engineering and Machine Learning, and currently working on improving my skills in both areas
-- 📫 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/chamathhirushan/) at anytime
+<img src="https://raw.githubusercontent.com/chamathHirushan/chamathHirushan/main/dev-working_rounded.gif" width="230" align="right" style="margin-left:20px;" />
 
+👋 Hi, I’m @chamathHirushan, a 4th-year undergraduate at University of Moratuwa, Computer Science and Eng department  
+- 👀 I’m interested in both Software Engineering and Machine Learning, and currently working on improving my skills in both areas  
+- 📫 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/chamathhirushan/) at anytime
+</br>
 <div align="center">
   <h1>📊 GitHub Stats</h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamathHirushan&label=Profile%20views&color=0e75b6&style=flat" alt="chamathHirushan" /> </p>
