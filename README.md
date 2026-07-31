@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@chamathHirushan](https://chamathgunapala.me/), a Computer Science and Engineering graduate from University of Moratuwa
 - 👀 I’m interested in both Software Engineering and Machine Learning, and currently working on improving my skills in both areas
-- 📫 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/chamathhirushan/) at anytime
+- 📫 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/chamathhirushan/)
 
 <div align="center">
   <h1>📊 GitHub Stats</h1>
